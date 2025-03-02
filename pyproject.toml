@@ -17,4 +17,4 @@ where = ["hello-world"]
 
 [project.urls]
 "Homepage" = "https://github.com/ogaken1104/hello-world"
-"Repository" = "https://githubß.com/ogaken1104/hello-world.git"
+"Repository" = "https://github.com/ogaken1104/hello-world.git"
